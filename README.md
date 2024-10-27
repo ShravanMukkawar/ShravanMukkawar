@@ -9,5 +9,5 @@
 🔗 Profiles:
 
 [LeetCode](https://leetcode.com/only_errors)
-[LeetCode](https://www.geeksforgeeks.org/user/mukkawarsiitv/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/user/mukkawarsiitv/)
 <!--- ShravanMukkawar/ShravanMukkawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
