@@ -2,7 +2,6 @@
 👀 I’m interested in software development, web applications, and algorithms.
 🌱 I’m currently learning the MERN stack (MongoDB, Express.js, React, Node.js) and diving into machine learning.
 💞️ I’m looking to collaborate on open-source projects, especially those involving web development and machine learning.
-📫 How to reach me: [Your preferred contact method, e.g., email, LinkedIn]
 😄 Pronouns: He/Him
 ⚡ Fun fact: I developed a text file compressor using Huffman encoding that significantly reduces file size!
 
