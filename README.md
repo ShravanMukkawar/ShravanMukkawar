@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shravan Mukkawar</h1>
 <h3 align="center">Exploring the world of open source and looking to contribute to exciting projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan Mukkawar&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan Mukkawar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShravanMukkawar&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan Mukkawar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
